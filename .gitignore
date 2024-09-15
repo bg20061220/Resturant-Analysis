@@ -1,0 +1,69 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment directories
+env/
+venv/
+ENV/
+VENV/
+
+# Distribution / packaging
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Log files
+*.log
+
+# Local settings
+*.env
+
+# Coverage and test artifacts
+*.cover
+*.coverage
+*.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.coveragerc
+.pytest_cache/
+
+# Data files
+*.csv
+*.tsv
+*.dat
+*.tmp
+
+# IDE and editor specific
+.vscode/
+*.code-workspace
+.idea/
+*.iml
+
+# macOS specific files
+.DS_Store
+
+# Python package manager files
+pip-log.txt
+pip-delete-this-directory.txt
+
+
+
+
+
+# Ignore build directories for specific package managers
+*.egg
+*.egg-info/
+
+# Ignore database files
+
+# Ignore PyInstaller logs and directories
+*.spec
+dist/
+build/
