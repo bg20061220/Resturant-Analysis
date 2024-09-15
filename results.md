@@ -29,8 +29,7 @@
 1. **What are the top 5 restaurant types performing well in Bangalore (by sales per store)?**
    - Quick Bites, Casual Dining, Cafe, Dessert Parlour, Delivery
      Here is a bar graph which shows top 10 categories and their market share.
-     ![Sorry Something Went Wrong](images/Sales by Resturant Type Bar Graph SS.png)
-
+     https://github.com/bg20061220/Resturant-Analysis/blob/master/images/Sales%20by%20Resturant%20Type%20Bar%20Graph%20SS.png 
 2. **What are the worst 5 restaurant types (by sales per store)?**
    - Desert Parlor & Food Court, Desert Parlor & Kiosk, Bakery & Food Court, Casual Dining & Lounge, Cafe & Food Court. Looks Bangalorians doesn't like sweet( can be seen in their language).
 
@@ -57,4 +56,4 @@
    MSE = 2,700,360,008.67: The large MSE value suggests a substantial difference between the predicted and actual sales values, further supporting the conclusion that there is no linear relationship between these two factors.
 
    Here's the graph of the Linear Regression Model : 
-   ![Sorry Something Went Wrong](images/Approx_Cost vs Sales Scatter Plot.png)
+https://github.com/bg20061220/Resturant-Analysis/blob/master/images/Approx_Cost%20vs%20Sales%20Scatter%20Plot.png
